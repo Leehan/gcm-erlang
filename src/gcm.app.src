@@ -9,6 +9,7 @@
         ssl,
         jsx
     ]},
+    {modules, []},
     {mod, {gcm_app, []}},
     {env, []}
 ]}.
